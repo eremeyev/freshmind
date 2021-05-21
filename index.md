@@ -1,7 +1,10 @@
 ## Refresh your mind with feshmind!  
 
+<div style="color: #ggg;">c</div>
+
+Lc | Lc | Lc | Lc | Lc | Lc | Lc  
+---| -- | -- | -- | -- | -- | ---
 Ab | Bl | Сl | Dr | Eb | Fb | Gb  
------------- | -------------
 Ab | Bl | Сl | Dr | Eb | Fb | Gb  
 
 
