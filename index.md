@@ -1,6 +1,6 @@
-## Refresh your mind with feshmind!
+## Refresh your mind with feshmind!  
 
-| ------------ | ------------- |
-| Ab Bl Сl Dr Eb  Fb  Gb |
+| ------------ | ------------- |  
+| Ab Bl Сl Dr Eb  Fb  Gb |  
 | |
-| ------------ | ------------- |
+| ------------ | ------------- |  
