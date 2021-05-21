@@ -1,6 +1,6 @@
 ## Refresh your mind with feshmind!  
 
-<div style="color: #ggg;">c</div>
+<div color="#1a1a1c;">c</div>
 
 Lc | Lc | Lc | Lc | Lc | Lc | Lc  
 ---| -- | -- | -- | -- | -- | ---
