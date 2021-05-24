@@ -1,4 +1,5 @@
 require "colorize"
+require_relative 'freshmind/alfabet'
 
 class Command
   attr_reader :lang
@@ -13,22 +14,6 @@ class Command
   def commands
     return "оплопл" if lang == :ru
     return "brlbrl" if lang == :en
-  end
-end
-
-class Alfabet
-  attr_reader :lang, :order
-  def initialize(lang=:en, order=:ordered)
-    @lang = lang
-    @order = order
-  end
-  
-  def list
-    letters = "АБВГДЕЁЖЗИКЛМНОПРСТУФХЧЦШЩЫЭЮЯ" if lang == :ru
-    letters = "ABCDEFHHIJKLMNOPQRSTUVWZYZABCD" if lang == :en
-    res = letters.split('')
-    res = res.sample(letters.size) if order.to_sym == :random
-    res
   end
 end
 
@@ -94,7 +79,7 @@ class Main
   end
 end
 
-options_conf = { 
+options_conf = {
   lang: { 
     variants: [:en, :ru], 
     default: :en, 
@@ -110,5 +95,5 @@ args = Options.new(ARGV, options_conf).args
 Main.new(
   5,
   Command.new(args[:lang]).list,
-  Alfabet.new(args[:lang], args[:order]).list
+  Alfabet.new(lang: args[:lang], order: args[:order]).list
 ).out
