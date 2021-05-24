@@ -9,11 +9,13 @@ Commnads:
   л - lift LEFT hand and lift RIGHT leg a bit  
 
 # Usage
+```
 > bundle install
  or 
 > gem install freshmind
 ...
 > freshmind
+```
 
 Output will be like this with small red letters.  
 ```
