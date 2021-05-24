@@ -4,9 +4,15 @@ Generate alfabet letters along with commands in terminal to refresh your mind.
 # Instructions:
 Read out lod letters and do commands in the same time.
 Commnads:  
-  о - lift up both hands and rise a bit on toes of feet  
-  п - lift RIGHT hand and LEFT lift leg a bit  
-  л - lift LEFT hand and lift RIGHT leg a bit  
+  'ru' version:
+  о - поднимите Обе руки  
+  п - поднимите Правую руку и левую ногу
+  л - поднимите Левую руку и правую ногу
+  
+  'en' version:
+  b - lift up Both hands and rise a bit on toes of feet  
+  r - lift Right hand and Left lift leg a bit  
+  l - lift Left hand and lift Right leg a bit  
 
 # Usage
 ```
@@ -15,6 +21,8 @@ Commnads:
 > gem install freshmind
 ...
 > freshmind
+ or 
+> freshmind [en(default)|ru] [random]
 ```
 
 Output will be like this with small red letters.  
