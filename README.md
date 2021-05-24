@@ -16,6 +16,7 @@ Commnads:
 > freshmind
 
 Output will be like this with small red letters.  
+```
 ┌────────────────┐  
 │ Ar Br Cl Dr El │  
 │ Fl Hl Hl Ib Jr │  
@@ -24,4 +25,4 @@ Output will be like this with small red letters.
 │ Ul Vb Wl Zl Yr │  
 │ Zr Ab Bl Cl Dl │  
 └────────────────┘  
-
+```
