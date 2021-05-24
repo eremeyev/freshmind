@@ -17,7 +17,7 @@ RSpec.describe Alfabet, :aggregate_failure do
     end
   end
 
-  let(:unknown_alfabet) { Alfabet.new(lang: :en) }
+  let(:unknown_alfabet) { Alfabet.new(lang: :unknown) }
   context 'unknown' do
     it 'return english letters' do
       expect(en_alfabet.list).to eq((('A'..'Z').to_a * 2)[0, 40])
