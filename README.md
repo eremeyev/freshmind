@@ -16,12 +16,12 @@ Commnads:
 > freshmind
 
 Output will be like this with small red letters.  
-+-------------------+  
-| Ао Бо Вл Го Дп Еп |   
-| Ёо Жл Зп Ио Кл Лп |  
-| Мп Нп Оо Пп Рп Сл |  
-| Тл Ул Фо Хп Чо Цп |  
-| Шо Щп Ып Эл Юп Яо |  
-+-------------------+  
-
+┌────────────────┐
+│ Ar Br Cl Dr El │
+│ Fl Hl Hl Ib Jr │
+│ Kr Lb Ml Nr Ol │
+│ Pb Ql Rl Sr Tl │
+│ Ul Vb Wl Zl Yr │
+│ Zr Ab Bl Cl Dl │
+└────────────────┘
 
