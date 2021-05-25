@@ -2,12 +2,15 @@
 Generate alfabet letters along with commands in terminal to refresh your mind.
 
 # Instructions:
-Read out loud letters and do commands in the same time.  
+Read out loud letters and do commands in the same time.
+Letters are from English or Russian alphabet.
   
-Commands:  
-  b - lift up Both hands and rise a bit on toes of feet  
-  r - lift RIGHT hand and LEFT  leg a bit  
-  l - lift LEFT  hand and RIGHT leg a bit  
+Commands are:
+```  
+b - lift up Both hands and rise a bit on toes of feet  
+r - lift RIGHT hand and LEFT  leg a bit  
+l - lift LEFT  hand and RIGHT leg a bit  
+```
   
 Do it from start to end ~3 minutes.  
 Your mind will work more faster cause exercise will boost your mind energy.  
