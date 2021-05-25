@@ -2,7 +2,7 @@
 Generate alfabet letters along with commands in terminal to refresh your mind.
 
 # Instructions:
-Read out loud letters and do commands in the same time.
+Read out loud letters and do commands in the same time.  
 Letters are from English or Russian alphabet.
   
 Commands are:
