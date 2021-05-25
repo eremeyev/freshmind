@@ -14,7 +14,7 @@ Commands:
  or 
 > gem install freshmind
 ...
-> freshmind
+> freshmind [ru|en(default)] [random|ordered(default)]
 ```
 
 Output will be like this with small red letters.  
