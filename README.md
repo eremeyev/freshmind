@@ -35,3 +35,8 @@ Output will be like this with small red letters.
 │ Zr Ab Bl Cl Dl │  
 └────────────────┘  
 ```
+
+# Features to implement:  
+
+- [ ] Add output in HTML format  
+- [ ] Move classes to files  
