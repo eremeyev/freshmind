@@ -40,3 +40,4 @@ Output will be like this with small red letters.
 
 - [ ] Add output in HTML format  
 - [ ] Move classes to files  
+- [ ] Add more specs
