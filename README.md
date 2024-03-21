@@ -11,6 +11,14 @@ b - lift up Both hands and rise a bit on toes of feet
 r - lift RIGHT hand and LEFT  leg a bit  
 l - lift LEFT  hand and RIGHT leg a bit  
 ```
+Russian:
+```
+Исходное положение: сидя, руки на коленях.
+Команды означают следующее:
+<span style="color:red">о</span> - поднимите ОБЕ руки и приподнимите носки ОБЕИХ ног
+<span style="color:red">п</span> - поднимите Правую руку и приподнимите носок Левой ноги
+<span style="color:red">р</span> - поднимите Лувую рука и приподнимите носок Привой ноги
+```
   
 Do it from start to end ~3 minutes.  
 Your mind will work more faster cause exercise will boost your mind energy.  
