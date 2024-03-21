@@ -4,6 +4,8 @@ Generate alfabet letters along with commands in terminal to refresh your mind.
 # Instructions:
 Read out loud letters and do commands in the same time.  
 Letters are from English or Russian alphabet.
+
+Start position is: Sit on chair and lay hands on your knees.
   
 Commands are:
 ```  
@@ -15,6 +17,7 @@ Do it from start to end ~3 minutes.
 Your mind will work more faster cause exercise will boost your mind energy.  
 
 Russian:
+
 Произносите громко буквы алфавита и выполняйте одновременно команды
 обозначенные маленькими красными буквами.
 ```
