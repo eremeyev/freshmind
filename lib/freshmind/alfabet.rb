@@ -1,7 +1,7 @@
 class Alfabet
   attr_reader :lang, :order
   LETTERS = {
-    ru: ('А'..'Я').to_a - %w[Ъ Ь] + %w[Ё],
+    ru: ('А'..'Е').to_a + %w[Ё] + ('Ж'..'Я').to_a - %w[Ъ Ь],
     en: ('A'..'Z').to_a
   }
   
