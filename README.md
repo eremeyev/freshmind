@@ -1,5 +1,5 @@
 # Alfabet
-Generate alfabet letters along with commands in terminal to refresh your mind.
+Generate alfabet letters along with commands in terminal for exersice to refresh your mind.
 
 # Instructions:
 Read out loud letters and do commands in the same time.  
